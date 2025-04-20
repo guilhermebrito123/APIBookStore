@@ -1,5 +1,5 @@
 using APIBookStore.Models;
-using BookStoreApi.Services;
+using APIBookStore.Services;
 
 namespace APIBookStore
 {

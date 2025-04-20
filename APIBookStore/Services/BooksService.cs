@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 
-namespace BookStoreApi.Services;
+namespace APIBookStore.Services;
 
 public class BooksService
 {
